@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-![Ronen's GitHub stats](https://github-readme-stats.vercel.app/api?username=v3rron&hide=contribs,prs)
+![Ronen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kovidgoyal&theme=dracula&show_icons=true&include_all_commits=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=v3rron)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v3rron&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=kovidgoyal&theme=dracula)](https://git.io/streak-stats)
 
 <!--
 **v3rron/v3rron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
