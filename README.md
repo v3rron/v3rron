@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=v3rron)](https://git.io/streak-stats)
+
 <!--
 **v3rron/v3rron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
